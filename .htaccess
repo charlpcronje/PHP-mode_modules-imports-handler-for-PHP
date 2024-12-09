@@ -1,0 +1,8 @@
+RewriteEngine On
+
+# Redirect requests for non-existent files or directories to handler.php
+RewriteCond %{DOCUMENT_ROOT}/%{REQUEST_FILENAME} !-f
+RewriteCond %{DOCUMENT_ROOT}/%{REQUEST_FILENAME} !-d
+
+# Route to handler.php
+RewriteRule ^(.*)$ /import_handler.php [QSA,L]
