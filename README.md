@@ -203,6 +203,7 @@ Contributions are welcome! Please open an issue or submit a pull request for imp
 
 ---
 
-## **License**
+## License
+This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. See the [LICENSE](LICENSE.md) file for details.
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for details.
+Created by Charl Cronje.
