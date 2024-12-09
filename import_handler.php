@@ -1,4 +1,11 @@
 <?php
+/*
+ * PHP Node Modules Import Handler
+ * Author: Charl Cronje
+ * License: CC BY-NC 4.0 (Non-Commercial Use Only)
+ * Year: 2024
+ */
+
 declare(strict_types=1);
 
 // Configuration
